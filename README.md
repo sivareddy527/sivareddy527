@@ -56,36 +56,19 @@
 - Databases: MySQL, SQLite
 
 ---
----
 
-## ✨ Profile Highlights
+## ✨ Profile highlights (quick glance)
 
-<div align="center">
-
-🚀 **Open to Campus Placements & Internships**  
-💼 **Target Roles:** Android Developer | ML Engineer (Entry-Level)  
-📍 **Based in:** Kadapa, Andhra Pradesh, India  
-
-</div>
+- Open to: Campus placement / internships in Android & ML
+- Preferred roles: Android Developer, ML Engineer (entry-level)
+- Location: Kadapa, Andhra Pradesh, India
 
 ---
 
-## 📌 Important Note
+## 📂 Notes
 
-<div align="center">
-
-### ⚡ Most of my projects are private  
-
-🔒 A majority of my work is under **NDA / Private Repositories**,  
-so you may not see many public projects here.
-
-📩 If you’d like to view **demo apps, portfolio samples, or case studies**,  
-feel free to **reach out via DM or Email** — I’d be happy to share.
-
-</div>
+- You may not find many public repositories here — most of my work is private or under NDA. If you'd like to see samples, DM me and I can share portfolio artifacts.
 
 ---
 
-✨ **Thank you for visiting — let’s connect and grow together!** 🚀
-
-l free to connect! 🚀
+Thank you for visiting — feel free to connect! 🚀
