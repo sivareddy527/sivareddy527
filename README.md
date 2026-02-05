@@ -57,18 +57,28 @@
 
 ---
 
-## ✨ Profile highlights (quick glance)
+## ✨ Profile Highlights 
 
-- Open to: Campus placement / internships in Android & ML
-- Preferred roles: Android Developer, ML Engineer (entry-level)
-- Location: Kadapa, Andhra Pradesh, India
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Campus%20Placements%20%7C%20Internships-22C55E?style=for-the-badge&logo=rocket&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Preferred%20Roles-Android%20Developer%20%7C%20ML%20Engineer-6366F1?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Kadapa%2C%20Andhra%20Pradesh%2C%20India-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
 ---
 
-## 📂 Notes
+## 📂 Notes 
 
-- You may not find many public repositories here — most of my work is private or under NDA. If you'd like to see samples, DM me and I can share portfolio artifacts.
+> ⚡ **Most of my projects are private or under NDA**  
+> 📌 You may not find many public repositories here.  
+> 💬 If you'd like to see **portfolio samples / demo-ready artifacts**, feel free to **DM me anytime!**
 
 ---
 
-Thank you for visiting — feel free to connect! 🚀
+✨ Thank you for visiting — feel free to connect! 🚀
