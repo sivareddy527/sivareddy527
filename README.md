@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sivareddy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&size=24&center=true&vCenter=true&width=650&lines=Anroid+App+developer;Machine+Learning+Enthusiast;;Always+Learning+New+Tech!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&size=24&center=true&vCenter=true&width=650&lines=Android+App+developer;Machine+Learning+Enthusiast;;Always+Learning+New+Tech!"/>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me  
 
 🎓 B.Tech CSE (AI & ML) Student at **Parul University**  
-💡 Passionate about **Anroid app developing, & Machine Learning & AI**  
+💡 Passionate about **Android app developing, & Machine Learning & AI**  
 🚀 Actively looking for **Campus Placement Opportunities**  
 📍 From kadapa, Andhra Pradesh, India  
 
@@ -39,26 +39,23 @@
   </a>
 </p>
 
-
 ---
 
 ## 🛠 Technical Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=Dart,Go,python,django,flask,html,css,js,mysql,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=dart,java,go" />
 </p>
 
-✅ **Languages:** Java, Python, Dart, JavaScript, Go  
+✅ **Languages:** Dart, Java, Go  
 ✅ **Frameworks:** Flutter, Django, Flask, React.js
 ✅ **Machine Learning:** Scikit-learn, Pandas, NumPy  
 ✅ **Databases:** MySQL, SQLite  
 
-
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://github.com/Lalith9701/Lalith9701/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sivareddy527/sivareddy527/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
 
 ⭐ *You may not find public repositories here most of my work is private, but always real.**🔽
