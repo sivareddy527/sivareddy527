@@ -56,29 +56,36 @@
 - Databases: MySQL, SQLite
 
 ---
+---
 
-## ✨ Profile Highlights 
+## ✨ Profile Highlights
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Campus%20Placements%20%7C%20Internships-22C55E?style=for-the-badge&logo=rocket&logoColor=white"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Preferred%20Roles-Android%20Developer%20%7C%20ML%20Engineer-6366F1?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
+🚀 **Open to Campus Placements & Internships**  
+💼 **Target Roles:** Android Developer | ML Engineer (Entry-Level)  
+📍 **Based in:** Kadapa, Andhra Pradesh, India  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Kadapa%2C%20Andhra%20Pradesh%2C%20India-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 📂 Notes 
+## 📌 Important Note
 
-> ⚡ **Most of my projects are private or under NDA**  
-> 📌 You may not find many public repositories here.  
-> 💬 If you'd like to see **portfolio samples / demo-ready artifacts**, feel free to **DM me anytime!**
+<div align="center">
+
+### ⚡ Most of my projects are private  
+
+🔒 A majority of my work is under **NDA / Private Repositories**,  
+so you may not see many public projects here.
+
+📩 If you’d like to view **demo apps, portfolio samples, or case studies**,  
+feel free to **reach out via DM or Email** — I’d be happy to share.
+
+</div>
 
 ---
 
-✨ Thank you for visiting — feel free to connect! 🚀
+✨ **Thank you for visiting — let’s connect and grow together!** 🚀
+
+l free to connect! 🚀
